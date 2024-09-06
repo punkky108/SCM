@@ -16,6 +16,4 @@ for j in range(25):
         tur.circle(50,24)
 tur.hideturtle()
 tur.done()
-
-
 ##this is for main branch
